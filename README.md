@@ -1,7 +1,7 @@
 # formatplus3
 Next evolution of Formatplus plugin for DokuWiki.
 
-//Notice: as of now only xHTML output is supported.//
+_Notice: as of now only xHTML output is supported._
 
 In spirit of [Format+ Plugin](https://www.dokuwiki.org/plugin:formatplus) and [Formatplus2 Plugin](https://www.dokuwiki.org/plugin:formatplus2) this is a new (the third?) rewrite.
 This plugin provides the same syntax as the former versions mentioned above and documented for the original version [here](https://www.dokuwiki.org/plugin:formatplus).
