@@ -1,0 +1,8 @@
+base   formatplus3
+author Jens Bertram
+email  code@jens-bertram.de
+date   2018-02-03
+name   Format+3 syntax plugin
+desc   Provide additional formatting syntax.
+url https://www.dokuwiki.org/plugin:format3
+license public domain
